@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Balloon\Tests\Component\Etcd\GoMicroClientTest" file="/Users/tomtiddler/Code/php-code/etcdv3-php/tests/GoMicroClientTest.php" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.026679">
+    <testcase name="testServiceDiscover" class="Balloon\Tests\Component\Etcd\GoMicroClientTest" classname="Balloon.Tests.Component.Etcd.GoMicroClientTest" file="/Users/tomtiddler/Code/php-code/etcdv3-php/tests/GoMicroClientTest.php" line="33" assertions="1" time="0.026679"/>
+  </testsuite>
+</testsuites>
